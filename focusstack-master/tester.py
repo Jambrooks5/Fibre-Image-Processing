@@ -1,0 +1,3 @@
+import stackMain
+
+stackMain.stackStart()
